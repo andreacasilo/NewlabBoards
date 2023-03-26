@@ -164,8 +164,8 @@
           "architecture": "nrf52",
           "version": "1.3.0",
           "category": "Newlabboards",
-          "url": "https://github.com/andreacasilo/NewlabBoards/blob/main/boards/tecne-1.3.0.rar",
-          "archiveFileName": "tecne-1.3.0.rar",
+          "url": "https://github.com/andreacasilo/NewlabBoards/blob/main/boards/Newlabboards-1.3.0.rar",
+          "archiveFileName": "Newlabboards-1.3.0.rar",
           "checksum": "SHA-256:d5c24e9b69e52f50d0c9e6c68efd8688355ac3d81e8e80f723591e8c6617b4a9",
           "size": "18505007",
           "boards": [
