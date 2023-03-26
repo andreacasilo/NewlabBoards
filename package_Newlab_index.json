@@ -164,7 +164,7 @@
           "architecture": "nrf52",
           "version": "1.3.0",
           "category": "Newlab boards",
-          "url": "https://github.com/andreacasilo/NewlabBoards/blob/main/1.3.0.rar",
+          "url": "https://github.com/andreacasilo/NewlabBoards/main/1.3.0.rar",
           "archiveFileName": "1.3.0.rar",
           "checksum": "c09596c4d9e7c32dd137b57d42dca644dccc36daf84e0c18360d4fcc56ee9482",
           "size": "18085037",
